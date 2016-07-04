@@ -1,16 +1,17 @@
 <code_scheme name="jakubs-formatter">
   <option name="IMPORT_LAYOUT_TABLE">
     <value>
-      <package name="" withSubpackages="true" static="false" />
-      <emptyLine />
       <package name="" withSubpackages="true" static="true" />
       <emptyLine />
-      <package name="javax" withSubpackages="true" static="false" />
       <package name="java" withSubpackages="true" static="false" />
+      <emptyLine />
+      <package name="javax" withSubpackages="true" static="false" />
       <emptyLine />
       <package name="org" withSubpackages="true" static="false" />
       <emptyLine />
       <package name="com" withSubpackages="true" static="false" />
+      <emptyLine />
+      <package name="" withSubpackages="true" static="false" />
     </value>
   </option>
   <option name="RIGHT_MARGIN" value="180" />
@@ -38,6 +39,7 @@
     <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
     <option name="BLANK_LINES_AFTER_ANONYMOUS_CLASS_HEADER" value="1" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="SPACE_BEFORE_ARRAY_INITIALIZER_LBRACE" value="true" />
     <option name="CALL_PARAMETERS_WRAP" value="1" />
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
