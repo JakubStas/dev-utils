@@ -25,6 +25,7 @@
     <option name="SPACE_AFTER_CLOSING_ANGLE_BRACKET_IN_TYPE_ARGUMENT" value="true" />
   </JavaCodeStyleSettings>
   <XML>
+    <option name="XML_KEEP_BLANK_LINES" value="1" />
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
   <codeStyleSettings language="JAVA">
@@ -49,6 +50,13 @@
     <option name="ENUM_CONSTANTS_WRAP" value="2" />
     <option name="WRAP_ON_TYPING" value="0" />
     <indentOptions>
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="XML">
+    <option name="WRAP_ON_TYPING" value="0" />
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
