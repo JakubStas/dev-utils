@@ -16,4 +16,4 @@ RUN easy_install pygments
 
 RUN echo "\nfunction jcurl() {\n\tcurl \"\$@\" | json_pp | pygmentize -l json\n}\n\nexport jcurl" >> .bashrc
 RUN echo "\n" >> .bashrc
-RUN echo "\nfunction xcurl() {\n\tcurl \"\$@\" | xml_pp | pygmentize -l json\n}\n\nexport xcurl" >> .bashrc
+RUN echo "\nfunction xcurl() {\n\tcurl \"\$@\" | xml_pp | pygmentize -l xml\n}\n\nexport xcurl" >> .bashrc
