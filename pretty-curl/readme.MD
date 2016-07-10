@@ -85,7 +85,7 @@ producs an output like this:
 
 I also created a docker image to make the setup even easier. The image is always built automatically from `master` branch on each new commit/push. To learn more just follow the link to Docker Hub.
 
-[![docker-image][docker-image]](https://github.com/JakubStas/Spring4WithSwagger)
+[![docker-image][docker-image]](https://hub.docker.com/r/jakubstas/pretty-curl/)
 
 [pretty-curl-json-demo]: http://jakubstas.com/wp-content/uploads/2016/07/pretty-curl-json.png "Pretty curl JSON demo"
 [pretty-curl-xml-demo]: http://jakubstas.com/wp-content/uploads/2016/07/pretty-curl-xml.png "Pretty curl XML demo"
