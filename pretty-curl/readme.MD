@@ -88,5 +88,5 @@ I also created a docker image to make the setup even easier. The image is always
 [![docker-image][docker-image]](https://hub.docker.com/r/jakubstas/pretty-curl/)
 
 [pretty-curl-json-demo]: http://jakubstas.com/wp-content/uploads/2016/07/pretty-curl-json.png "Pretty curl JSON demo"
-[pretty-curl-xml-demo]: http://jakubstas.com/wp-content/uploads/2016/07/pretty-curl-xml.png "Pretty curl XML demo"
+[pretty-curl-xml-demo]: http://jakubstas.com/wp-content/uploads/2016/07/xcurl-demo.png "Pretty curl XML demo"
 [docker-image]: http://jakubstas.com/wp-content/uploads/2016/07/docker-small.png "Docker image jakubstas/prettu-curl"
