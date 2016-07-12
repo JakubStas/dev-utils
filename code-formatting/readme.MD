@@ -33,5 +33,5 @@ Make sur eonly the following options are checked:
 
 ## Font
 
-[Inconsolata](https://fonts.google.com/specimen/Inconsolata?query=inc&selection.family=Inconsolata)
-[Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono?category=Monospace&selection.family=Roboto+Mono)
+* [Inconsolata](https://fonts.google.com/specimen/Inconsolata?query=inc&selection.family=Inconsolata)
+* [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono?category=Monospace&selection.family=Roboto+Mono)
