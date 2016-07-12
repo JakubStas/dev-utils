@@ -30,3 +30,8 @@ Make sur eonly the following options are checked:
 * [x] Join lines
 * [x] Insert whitepsace before closing empty end-tags
 * [x] Indent using spaces
+
+## Font
+
+[Inconsolata](https://fonts.google.com/specimen/Inconsolata?query=inc&selection.family=Inconsolata)
+[Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono?category=Monospace&selection.family=Roboto+Mono)
