@@ -33,5 +33,10 @@ Make sur eonly the following options are checked:
 
 ## Font
 
+No ligatures:
 * [Inconsolata](https://fonts.google.com/specimen/Inconsolata?query=inc&selection.family=Inconsolata)
 * [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono?category=Monospace&selection.family=Roboto+Mono)
+
+With ligatures:
+* [Hasklig](https://github.com/i-tu/Hasklig)
+* [Fira Code](https://github.com/tonsky/FiraCode)
